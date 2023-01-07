@@ -1,0 +1,26 @@
+body{
+  font-family:monospace;
+  text-align: center;
+  
+  background-image: url("https://img.freepik.com/free-vector/pastel-watercolor-painted-background_23-2148959638.jpg?w=2000");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 15%;
+
+}
+h1,p{
+    margin: 20px auto;
+    color:darkslategray;
+}
+h1{
+   font-size: 3rem;
+}
+p{
+    font-size: 2rem;
+}
+h1:hover,p:hover{
+    color:blueviolet;
+    text-decoration: underline;
+}
